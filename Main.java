@@ -1,7 +1,5 @@
 
-//22. Remove duplicates from an array.
 
-package Wissen;
 
 
 
